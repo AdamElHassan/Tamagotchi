@@ -1,0 +1,34 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Tamagotchi]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Tamagotchi].[Kleur] on table [dbo].[Tamagotchi] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+     Table rebuild
+       [dbo].[Tamagotchi] (Table)
+     Create
+       [dbo].[HotelKamer] (Table)
+       [dbo].[Type] (Table)
+       Default Constraint: unnamed constraint on [dbo].[HotelKamer] (Default Constraint)
+       [dbo].[FK_HotelKamer_Tamagotchi] (Foreign Key)
+       [dbo].[FK_HotelKamer_Type] (Foreign Key)
+
+** Supporting actions
+
+The column [dbo].[Tamagotchi].[Kleur] on table [dbo].[Tamagotchi] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

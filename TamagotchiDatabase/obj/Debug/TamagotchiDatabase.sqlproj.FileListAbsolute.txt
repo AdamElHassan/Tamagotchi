@@ -1,0 +1,5 @@
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiDatabase\bin\Debug\TamagotchiDatabase.dacpac
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiDatabase\bin\Debug\TamagotchiDatabase.dll
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiDatabase\bin\Debug\TamagotchiDatabase.pdb
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiDatabase\obj\Debug\TamagotchiDatabase.dll
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiDatabase\obj\Debug\TamagotchiDatabase.pdb

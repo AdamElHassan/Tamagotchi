@@ -1,0 +1,35 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[HotelKamer]
+       [dbo].[Tamagotchi]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[HotelKamer].[TamagotchiID] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[HotelKamer] (Default Constraint)
+       [dbo].[FK_HotelKamer_Tamagotchi] (Foreign Key)
+     Table rebuild
+       [dbo].[HotelKamer] (Table)
+       [dbo].[Tamagotchi] (Table)
+     Create
+       [dbo].[FK_Tamagotchi_HotelKamer] (Foreign Key)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_HotelKamer_Type] (Foreign Key)
+     Create
+       [dbo].[FK_HotelKamer_Type] (Foreign Key)
+
+The column [dbo].[HotelKamer].[TamagotchiID] is being dropped, data loss could occur.
+

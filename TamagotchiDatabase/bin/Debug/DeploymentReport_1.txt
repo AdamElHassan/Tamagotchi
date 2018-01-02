@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Tamagotchi]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+       unnamed constraint on [dbo].[Tamagotchi] (Default Constraint)
+     Table rebuild
+       [dbo].[Tamagotchi] (Table)
+
+** Supporting actions

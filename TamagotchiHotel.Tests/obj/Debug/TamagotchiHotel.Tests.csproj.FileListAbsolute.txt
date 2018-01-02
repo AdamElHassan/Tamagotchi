@@ -1,0 +1,7 @@
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiHotel.Tests\bin\Debug\TamagotchiHotel.Tests.dll
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiHotel.Tests\bin\Debug\TamagotchiHotel.Tests.pdb
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiHotel.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiHotel.Tests\obj\Debug\TamagotchiHotel.Tests.csprojResolveAssemblyReference.cache
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiHotel.Tests\obj\Debug\TamagotchiHotel.Tests.dll
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiHotel.Tests\obj\Debug\TamagotchiHotel.Tests.pdb
+C:\Users\adam-\OneDrive\Documenten\Visual Studio 2015\Projects\TamagotchiHotelMoreTabels\TamagotchiHotel.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
